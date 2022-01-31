@@ -1,0 +1,9 @@
+
+Circle :
+	c = 2πr
+	a = πr²
+	
+Pythagoras Theorem :
+	AC² = AB² + BC²
+
+👍
